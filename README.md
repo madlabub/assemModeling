@@ -12,7 +12,7 @@ This repository contains the codebase for component suggestion algorithm develop
 
 2. (Online task) Run 'getOutput.m' file which suggests plausible parts to be assembled based on the input part indices in 'inP'.
 
-Note: Some portions of the code is downloaded from MATLAB Central File Exchance and Github repositories.
+Note: Some portions of the code are downloaded from MATLAB Central File Exchance and Github repositories.
 
 *****************************************************************
 ### Owner:
